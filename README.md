@@ -1,6 +1,6 @@
 # servobot_description
 
-This repository contains a ROS2 package for the URDF files of the Servobot robot.
+This repository contains a ROS2 package for the URDF files of the Servobot robot. It is a fork of the original with compatibility for Windows.
 The urdf file is located at `urdf/servobot.urdf`, with the CAD files located in `meshes/`.
 
 Additionally, this package provides the github action workflow `.github/workflows/update-urdf.yaml`,
